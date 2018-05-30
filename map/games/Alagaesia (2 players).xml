@@ -2209,7 +2209,7 @@
 	<property name="Unrestricted Wall Placement" value="false" editable="true">
       <boolean />
     </property>
-    <property name="mapName" value="Alagaesia" editable="false">
+    <property name="mapName" value="alagaesia" editable="false">
       <string />
     </property>
     <property name="notes">
