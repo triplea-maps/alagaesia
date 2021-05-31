@@ -1,0 +1,4 @@
+map_name: alagaesia
+games:
+- {game_name: Alagaësia (4 players), file_name: Alagaesia (4 players).xml}
+- {game_name: Alagaësia (2 players), file_name: Alagaesia (2 players).xml}
